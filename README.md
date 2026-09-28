@@ -1,0 +1,2 @@
+# premium-cannon-scale-001-scale-cannon-barrel-carriage
+Tired of juggling spreadsheets, scattered notes, and half-finished cannon builds? The Scale Cannon Barrel &amp; Carriage Craft Hub organizes every dimension, material, and build stage into one Notion workspace.  This template replaces chaos with clarity, giving you a dedicated system to track barrel specs, carriage profiles, and component inventory acr
